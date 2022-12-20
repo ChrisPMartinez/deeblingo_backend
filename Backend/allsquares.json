@@ -1,0 +1,27 @@
+{
+  "players": [
+    {
+      "Name": "Employee Name",
+      "squares": [
+        "Employee says or does something uniquely associated to them",
+        "Employee says or does something uniquely associated to them",
+        "This is often where inside jokes relevant to the specific employee go"
+      ]
+    },
+    {
+      "Name": "Employee Name",
+      "squares": [
+        "Employee says or does something uniquely associated to them",
+        "Employee says or does something uniquely associated to them",
+        "This is often where inside jokes relevant to the specific employee go"
+      ]
+    }    
+  ],
+  "anyone": {
+    "squares": [
+      "Any employee says or does something unique to the company culture but not any specific individual",
+      "Any employee says or does something unique to the company culture but not any specific individual",
+      "This is often where inside jokes relevant to the entire company go"
+    ]
+  }
+}
